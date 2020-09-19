@@ -32,12 +32,12 @@ urlcolor: blue
 
 ---
 
-# Skills
+# Summary
 
-**Leadership:** teamwork, critical thinking, problem definition, problem-solving, organizational development  
-**Communication:** group facilitation, public speaking, academic writing, editing, data visualization  
-**Research:** mixed methods, data mining, social network analysis, natural language processing, interviews, surveys  
-**Technical:** R, Markdown/R Markdown, Git/Github, ATLAS.ti, Gephi, Excel, SPSS, HTML, CSS
+- Leader with 10+ years of management experience
+- Expert problem-solver focused on user-centered questions and approaches
+- Mixed methods researcher with extensive academic publishing record and expertise in data mining, social network analysis, natural language processing, interviews, surveys, and data visualization
+- Proven ability to manage multiple projects while meeting challenging deadlines
 
 ---
 
@@ -46,46 +46,49 @@ urlcolor: blue
 **Executive Coach** \hfill 2020-present  
 [Black in Gaming](http://www.blackingaming.com/) \hfill Remote
 
-- Designed and implemented strategies for organizational development, seeing a conference SIG become a movement to increase the number of Black professionals in the game industry from 2% to 5% in 5 years
-- Directed onboarding of 5 new members of the executive leadership team and 8 managers, seeing a loosely affiliated network find mutual purpose and take ownership to drive forward the organizational mission
-- Trained and mentored members of the executive leadership team to innovate, simplify, and focus efforts
+- Designed and implemented strategies for organizational development, transforming a conference SIG into a movement to increase the number of Black professionals in the game industry from 2% to 5% in 5 years
+- Directed onboarding of 5 new members of the executive leadership team and 8 managers, resulting in a loosely affiliated network find mutual purpose and take ownership to drive forward the organizational mission
+- Trained and mentored members of the executive leadership team through 40+ sessions spanning 3 months to innovate and focus efforts toward advocacy, incubation, and education initiatives
 
-**Graduate Assistant/Instructor** \hfill 2017-present  
+**Ph.D. Candidate, Graduate Assistant/Instructor** \hfill 2017-present  
 [Michigan State University, College of Education](https://education.msu.edu/cepse/) \hfill East Lansing, MI
 
-- Taught *Teaching & Learning with Technology* (Undergraduate, online, 7x)
+- Conducted and disseminated mixed methods research 
+  - Published 10 articles in top peer-reviewed, academic journals and 5 chapters in edited books
+  - Published 14 papers in peer-reviewed conference proceedings and presented these at the conferences
+  - Presented 22 papers at academic conferences without published proceedings
+  - Secured $26,675 in additional funding for research and scholarly activity
+  - Presented 13 workshops and guest lectures on topics including research methods, R programming, game design, and online communities
+- Taught *Teaching & Learning with Technology* (Undergraduate, online, 7x, mean of 26 students)
   - Students completed a semester-long project by designing a professional online portfolio showcasing their new skills in design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning
-- Taught *Learning Technology by Design* (Master’s, online, 3x)
+- Taught *Learning Technology by Design* (Master’s, online, 3x, mean of 22 students)
   - Students completed a semester-long project by working through one cycle of the design process (empathize, define, ideate, prototype, test) to address a problem of practice in their professional context.
-- Taught *Electronic Assessment for Teaching and Learning* (Master’s, online, 3x)
+- Taught *Electronic Assessment for Teaching and Learning* (Master’s, online, 3x, mean of 14 students)
   - Students completed a semester-long project by creating a formative assessment design plan (incorporating learning theories, feedback, and educational technologies) to implement in their professional context.
-- Taught *Teaching Students Online* (Master’s, online, 1x)
+- Taught *Teaching Students Online* (Master’s, online, 1x, 14 students)
   - Students completed a semester-long project by designing a curriculum for an online course module for their professional context, which may include training sessions or non-traditional courses.
 
 **Founding National Director, Ministry in Digital Spaces** \hfill 2014-2017  
 InterVarsity Christian Fellowship/USA \hfill Madison, WI
 
-- Set out to build the most diverse tech team in America; recruited and trained 11 talented women and men, seeing the core leadership team grow from 1 to 12
+- Set out to build the most diverse tech team in America
+- Recruited and trained 11 talented women and men, seeing the core leadership team grow from 1 to 12
 - Directed, and facilitated 5 think tank gatherings of industry experts in Atlanta, Austin, and San Francisco
 - Supervised 8 project leads managing 51 projects conceptualizing, developing, and testing innovative approaches to building online communities through video games and social media
 
-**Area Director, South Central Pennsylvania** \hfill 2009-2014  
+**Area Director** \hfill 2009-2014  
 InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
 
-- Supervised 17 different staff
-- Directed 11 conferences for undergraduate students from 7 colleges
-- Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences
+- Supervised 17 different staff at colleges and universities across South Central Pennsylvania
+- Directed 11 conferences for undergraduate students from 7 colleges (mean of 100 registrants)
+- Delivered 100+ talks at 13 different colleges and 8 inter-collegiate conferences (range of 15 to 200 attendees)
 - Designed and facilitated 30 training seminars for staff and students, specializing in leadership development
 
-**Director, Summer Justice Program** \hfill 2006; 2009-2012  
-InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
+**Director, Summer Justice Program** \hfill 2005-2006; 2009-2012  
+InterVarsity Christian Fellowship/USA
 
-- Designed and facilitated five 6-week immersive experiential programs for undergraduate students to learn from and work with local leaders in Pennsylvania
-
-**Director, Summer Justice Program** \hfill 2005  
-InterVarsity Christian Fellowship/USA \hfill Manila, Philippines
-
-- Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students to learn from and work with local leaders in Manila
+- Designed and facilitated five 6-week immersive experiential programs for undergraduate students (mean of 8 students per summer) to learn from and work with local leaders in Lancaster, Pennsylvania (2006; 2009-2012)
+- Designed and facilitated a 6-week immersive, experiential learning program for 3 undergraduate students to learn from and work with local leaders in Manila, Philippines (2005)
 
 ---
 
@@ -126,22 +129,18 @@ InterVarsity Christian Fellowship/USA \hfill Manila, Philippines
 - 2019: Outstanding Paper Award from SITE International Conference (Las Vegas, NV) as lead investigator comparing participation in four subreddits through data mining and social network analysis
 - 2017: Outstanding Paper Award from SITE International Conference (Austin, TX) as lead investigator interpreting Twitter hashtag activity through three different theoretical frameworks
 
-**Publications and Speaking**
-
-- 2017-present: 10 articles published in top peer-reviewed academic journals
-- 2017-present: 5 chapters published in edited books
-- 2017-present: 14 papers published in peer-reviewed conference proceedings
-- 2013-present: 22 papers presented at academic conferences without published proceedings
-- 2017-present: $26,675 in additional funding secured for research and scholarly activity
-- 2014-present: 13 guest lectures and workshops given on topics including research methods, R programming, game design, and online communities
-
 **Service**
 
 - 2020-2021: Served as Communications Officer for AECT's Research & Theory Division
 - 2019-2021: Served as Co-Chair for SITE's Social Media SIG
 - 2019-2020: Served as Secretary for AECT's Research & Theory Division
 - 2018-2019: Served as Webinar Team Leader for AECT'S Graduate Student Association
-- 2016-2020: Reviewed articles for 3 academic journals and 3 academic conferences
 - 2017: Served as the Science, Technology, & Innovation Track Chair and a Conference Executive Committee Member for Passion Talks Conference (Google HQ, Mountain View, CA)
 - 2015: Served as the Hackathon Mentor Coordinator for Urbana International Conference (St. Louis, MO)
 - 2013-2015: Served as Board Member for North American Simulation and Gaming Association (NASAGA)
+
+---
+
+# Technical Skills
+
+- R, Markdown/R Markdown, Git/Github, ATLAS.ti, Gephi, Excel, SPSS, HTML, CSS

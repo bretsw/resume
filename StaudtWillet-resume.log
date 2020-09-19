@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  18 SEP 2020 23:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  19 SEP 2020 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -501,7 +501,7 @@ ut line 113.
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-146.
+129.
 (/Users/bretsw/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [1
@@ -509,19 +509,19 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 {/Users/bretsw/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] 
 AED: lastpage setting LastPage
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 420.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 420.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 434.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 434.
 (./StaudtWillet-resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 420.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 420.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 434.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 434.
 Package rerunfilecheck Info: File `StaudtWillet-resume.out' has not changed.
-(rerunfilecheck)             Checksum: 442F045350D5005E802A355A64620ADA;376.
+(rerunfilecheck)             Checksum: 6902374C358E13D5D5D070A415D9146A;508.
  ) 
 Here is how much of TeX's memory you used:
- 13873 strings out of 482824
- 202828 string characters out of 5955256
- 490275 words of memory out of 5000000
- 28933 multiletter control sequences out of 15000+600000
+ 13877 strings out of 482824
+ 202886 string characters out of 5955256
+ 490315 words of memory out of 5000000
+ 28935 multiletter control sequences out of 15000+600000
  573199 words of font info for 145 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  45i,11n,52p,1208b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -537,10 +537,10 @@ t/fonts/type1/public/fpl/fplrij8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist
 /fonts/type1/urw/palatino/uplb8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/
 fonts/type1/urw/palatino/uplr8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/f
 onts/type1/urw/palatino/uplri8a.pfb>
-Output written on StaudtWillet-resume.pdf (2 pages, 103450 bytes).
+Output written on StaudtWillet-resume.pdf (2 pages, 103250 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 18465 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 18473 words of extra memory for PDF output out of 20736 (max. 10000000)
 
