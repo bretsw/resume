@@ -34,43 +34,41 @@ urlcolor: blue
 
 # Skills
 
-- **Leadership:** teamwork, critical thinking, problem definition, problem-solving, project management
-- **Communication:** facilitation, public speaking, academic writing, editing, data visualization
-- **Technical:** R, Markdown/R Markdown, Git/Github, ATLAS.ti, Gephi, Excel, SPSS, HTML, CSS
+**Leadership:** teamwork, critical thinking, problem definition, problem-solving, organizational development  
+**Communication:** group facilitation, public speaking, academic writing, editing, data visualization  
+**Research:** mixed methods, data mining, social network analysis, natural language processing, interviews, surveys  
+**Technical:** R, Markdown/R Markdown, Git/Github, ATLAS.ti, Gephi, Excel, SPSS, HTML, CSS
 
 ---
 
 # Experience
 
 **Executive Coach** \hfill 2020-present  
-[Black in Gaming](http://www.blackingaming.com/) \hfill Remote 
+[Black in Gaming](http://www.blackingaming.com/) \hfill Remote
 
-- Designed and implemented strategy for organizational culture and collaboration through remote work
-- Trained and mentored members of the executive leadership team
-- Directed onboarding of new members of the executive leadership team and managers
+- Designed and implemented strategies for organizational development, seeing a conference SIG become a movement to increase the number of Black professionals in the game industry from 2% to 5% in 5 years
+- Directed onboarding of 5 new members of the executive leadership team and 8 managers, seeing a loosely affiliated network find mutual purpose and take ownership to drive forward the organizational mission
+- Trained and mentored members of the executive leadership team to innovate, simplify, and focus efforts
 
 **Graduate Assistant/Instructor** \hfill 2017-present  
-[Michigan State University, College of Education](https://education.msu.edu/cepse/) \hfill East Lansing, MI  
+[Michigan State University, College of Education](https://education.msu.edu/cepse/) \hfill East Lansing, MI
 
 - Taught *Teaching & Learning with Technology* (Undergraduate, online, 7x)
-  - Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning. 
-  - Students complete a semester-long project by designing a professional online portfolio.
+  - Students completed a semester-long project by designing a professional online portfolio showcasing their new skills in design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning
 - Taught *Learning Technology by Design* (Master’s, online, 3x)
-  - Course topics include design thinking, the design process (empathize, define, ideate, prototype, test), designing for learners, iterative design. and collaboration in design.
-  - Students complete a semester-long project by working through one cycle of the design process to address a problem of practice from the student's professional context.
+  - Students completed a semester-long project by working through one cycle of the design process (empathize, define, ideate, prototype, test) to address a problem of practice in their professional context.
 - Taught *Electronic Assessment for Teaching and Learning* (Master’s, online, 3x)
-  - Course topics include foundational theories of assessment, formative assessment, feedback, and a critical examination of methods for assessment (e.g., portfolios, rubrics, surveys, tests, self-evaluations).
-  - Students complete a semester-long project by planning a formative assessment design to implement in their own context.
+  - Students completed a semester-long project by creating a formative assessment design plan (incorporating learning theories, feedback, and educational technologies) to implement in their professional context.
 - Taught *Teaching Students Online* (Master’s, online, 1x)
-  - Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management.
-  - Students complete a semester-long project by designing a curriculum for an online course module consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
+  - Students completed a semester-long project by designing a curriculum for an online course module for their professional context, which may include training sessions or non-traditional courses.
 
 **Founding National Director, Ministry in Digital Spaces** \hfill 2014-2017  
-InterVarsity Christian Fellowship/USA \hfill Remote
+InterVarsity Christian Fellowship/USA \hfill Madison, WI
 
-- Managed 51 projects related to online community building through video games and social media
-- Supervised 8 project leads
-- Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
+- Set out to build the most diverse tech team in America; recruited and trained 11 talented women and men to grow core leadership team from 1 to 12
+- Directed, and facilitated 5 think tank gatherings of industry experts in Atlanta, Austin, and San Francisco
+- Supervised 8 project leads managing 51 projects conceptualizing, developing, and testing innovative approaches to building online communities through video games and social media
+
 
 **Area Director, South Central Pennsylvania** \hfill 2009-2014  
 InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
@@ -78,17 +76,17 @@ InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
 - Supervised 17 different staff
 - Directed 11 conferences for undergraduate students from 7 colleges
 - Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences
-- Designed and facilitated 30 training seminars for staff and students
+- Designed and facilitated 30 training seminars for staff and students, specializing in leadership development
 
 **Director, Summer Justice Program** \hfill 2006; 2009-2012  
 InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
 
-- Designed and facilitated five 6-week immersive learning programs for undergraduate students
+- Designed and facilitated five 6-week immersive experiential programs for undergraduate students to learn from and work with local leaders in Pennsylvania
 
 **Director, Summer Justice Program** \hfill 2005  
-InterVarsity Christian Fellowship/USA  \hfill Manila, Philippines
+InterVarsity Christian Fellowship/USA \hfill Manila, Philippines
 
-- Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students
+- Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students to learn from and work with local leaders in Manila
 
 ---
 
@@ -109,7 +107,7 @@ InterVarsity Christian Fellowship/USA  \hfill Manila, Philippines
 - 2020: *Early Career Symposium* at Association for Educational Communications and Technology (AECT) International Convention (Online)
 - 2020: *Reproducible Research* Course Certificate from Johns Hopkins University (Coursera.org)
 - 2019: *Exploratory Data Analysis* Course Certificate from Johns Hopkins University (Coursera.org)
-- 2018: *Doctoral Colloquium* at Association of Internet Researchers (AoIR) International Conference (Montreal, QC)
+- 2018: *Doctoral Colloquium* at Association of Internet Researchers (AoIR) International Conference (Montreal)
 - 2018: *Methods for Analyzing and Modeling Textual Data* at Summer School Series on Methods for Computational Social Science (Los Angeles, CA)
 - 2018: *Getting and Cleaning Data* Course Certificate from Johns Hopkins University (Coursera.org)
 - 2018: *The Data Scientist’s Toolbox* Course Certificate from Johns Hopkins University (Coursera.org)
@@ -123,28 +121,28 @@ InterVarsity Christian Fellowship/USA  \hfill Manila, Philippines
 **Awards**
 
 - 2020: Clifford E. Erickson Memorial Fund Scholarship from Michigan State's College of Education
-- 2020: Featured Research at Association for Educational Communications and Technology (AECT) International Convention (Online)
-- 2020: Outstanding Paper Award from Society for Information Technology & Teacher Education (SITE) International Conference (Online)
+- 2020: Featured Research at Association for Educational Communications and Technology (AECT) International Convention (Online) as lead investigator of how social networks on Reddit change over time 
+- 2020: Outstanding Paper Award from Society for Information Technology & Teacher Education (SITE) International Conference (Online) as sole investigator of discourse in Twitter hashtags and reply threads
 - 2019: Disciplinary Leadership Award from Michigan State's Council of Graduate Students
-- 2019: Outstanding Paper Award from SITE International Conference (Las Vegas, NV)
-- 2017: Outstanding Paper Award from SITE International Conference (Austin, TX)
+- 2019: Outstanding Paper Award from SITE International Conference (Las Vegas, NV) as lead investigator comparing participation in four subreddits through data mining and social network analysis
+- 2017: Outstanding Paper Award from SITE International Conference (Austin, TX) as lead investigator interpreting Twitter hashtag activity through three different theoretical frameworks
 
 **Publications and Speaking**
 
-- 2017-present: 10 articles published in peer-reviewed academic journals
+- 2017-present: 10 articles published in top peer-reviewed academic journals
 - 2017-present: 5 chapters published in edited books
 - 2017-present: 14 papers published in peer-reviewed conference proceedings
-- 2013-present: 22 papers presented at academic conferencces without published proceedings
+- 2013-present: 22 papers presented at academic conferences without published proceedings
 - 2017-present: $26,675 in additional funding secured for research and scholarly activity
-- 2014-present: 13 guest lectures and workshops given on topics including R programming, game design, and online communities
+- 2014-present: 13 guest lectures and workshops given on topics including research methods, R programming, game design, and online communities
 
 **Service**
 
-- 2020-2021: Served as the Communications Officer for AECT's Research & Theory Division
-- 2019-2021: Served as the Co-Chair for SITE's Social Media SIG
-- 2019-2020: Served as the Secretary for AECT's Research & Theory Division
-- 2018-2019: Served as the Webinar Team Leader for AECT'S Graduate Student Association
-- 2016-2020: Revied articles for 3 academic journals and 3 academic conferences
+- 2020-2021: Served as Communications Officer for AECT's Research & Theory Division
+- 2019-2021: Served as Co-Chair for SITE's Social Media SIG
+- 2019-2020: Served as Secretary for AECT's Research & Theory Division
+- 2018-2019: Served as Webinar Team Leader for AECT'S Graduate Student Association
+- 2016-2020: Reviewed articles for 3 academic journals and 3 academic conferences
 - 2017: Served as the Science, Technology, & Innovation Track Chair and a Conference Executive Committee Member for Passion Talks Conference (Google HQ, Mountain View, CA)
 - 2015: Served as the Hackathon Mentor Coordinator for Urbana International Conference (St. Louis, MO)
-- 2013-2015: Served as a Board Member for NASAGA
+- 2013-2015: Served as Board Member for North American Simulation and Gaming Association (NASAGA)
