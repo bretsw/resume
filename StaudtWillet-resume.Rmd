@@ -20,7 +20,7 @@ scholar: bretsw
 web: bretsw.com
 phone: 
 
-updated: yes
+updated: 
 
 keywords: networked learning, online communities, social media
 
@@ -34,9 +34,9 @@ urlcolor: blue
 
 # Summary
 
-- Leader with 10+ years of management experience
+- Entrepreneurial leader with 10+ years of management experience
 - Expert problem-solver focused on user-centered questions and approaches
-- Mixed methods researcher with extensive academic publishing record and expertise in data mining, social network analysis, natural language processing, interviews, surveys, and data visualization
+- Mixed methods researcher with extensive academic publishing record and expertise in data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
 - Proven ability to manage multiple projects while meeting challenging deadlines
 
 ---
@@ -46,21 +46,23 @@ urlcolor: blue
 **Executive Coach** \hfill 2020-present  
 [Black in Gaming](http://www.blackingaming.com/) \hfill Remote
 
-- Designed and implemented strategies for organizational development, transforming a conference SIG into a movement to increase the number of Black professionals in the game industry from 2% to 5% in 5 years
-- Directed onboarding of 5 new members of the executive leadership team and 8 managers, resulting in a loosely affiliated network find mutual purpose and take ownership to drive forward the organizational mission
 - Trained and mentored members of the executive leadership team through 40+ sessions spanning 3 months to innovate and focus efforts toward advocacy, incubation, and education initiatives
+- Designed and implemented strategies for organizational development, resulting in a conference SIG becoming a movement to see Black representation in the game industry increase from 2% to 5% in 5 years
+- Directed onboarding of 5 new members of the executive leadership team and 10 managers, resulting in a loosely affiliated network finding mutual purpose and taking ownership to drive forward a shared mission
 
-**Ph.D. Candidate, Graduate Assistant/Instructor** \hfill 2017-present  
+**Ph.D. Candidate** \hfill 2017-present  
 [Michigan State University, College of Education](https://education.msu.edu/cepse/) \hfill East Lansing, MI
 
 - Conducted and disseminated mixed methods research 
   - Published 10 articles in top peer-reviewed, academic journals and 5 chapters in edited books
   - Published 14 papers in peer-reviewed conference proceedings and presented these at the conferences
   - Presented 22 papers at academic conferences without published proceedings
-  - Secured $26,675 in additional funding for research and scholarly activity
   - Presented 13 workshops and guest lectures on topics including research methods, R programming, game design, and online communities
+- Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
+- Developed a supervised machine learning classifier to categorize tweets by tweeter's purpose
+- Wrote code to retrieve subreddit posts and responses from the Reddit API (R package in development)
 - Taught *Teaching & Learning with Technology* (Undergraduate, online, 7x, mean of 26 students)
-  - Students completed a semester-long project by designing a professional online portfolio showcasing their new skills in design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning
+  - Students completed a semester-long project by designing a professional online portfolio showcasing their new skills in design thinking, computational thinking, and media & information literacy
 - Taught *Learning Technology by Design* (Master’s, online, 3x, mean of 22 students)
   - Students completed a semester-long project by working through one cycle of the design process (empathize, define, ideate, prototype, test) to address a problem of practice in their professional context.
 - Taught *Electronic Assessment for Teaching and Learning* (Master’s, online, 3x, mean of 14 students)
