@@ -34,24 +34,24 @@ urlcolor: blue
 
 # Summary
 
-- Entrepreneurial leader with 10+ years of management experience
-- Expert problem-solver focused on user-centered questions and approaches
-- Mixed methods researcher with extensive academic publishing record and expertise in data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
-- Proven ability to manage multiple projects while meeting challenging deadlines
+- Leader with 10+ years of experience in management, directing new initiatives, and organizational development
+- Researcher with extensive academic publishing record and expertise in mixed methods including data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
+- Problem-solver focused on asking the right questions, centering users, and applying appropriate methods
+- Project manager with proven ability to lead multiple projects while meeting challenging deadlines
 
 ---
 
 # Experience
 
 **Executive Coach** \hfill 2020-present  
-[Black in Gaming](http://www.blackingaming.com/) \hfill Remote
+Black in Gaming \hfill Remote
 
 - Trained and mentored members of the executive leadership team through 40+ sessions spanning 3 months to innovate and focus efforts toward advocacy, incubation, and education initiatives
 - Designed and implemented strategies for organizational development, resulting in a conference SIG becoming a movement to see Black representation in the game industry increase from 2% to 5% in 5 years
 - Directed onboarding of 5 new members of the executive leadership team and 10 managers, resulting in a loosely affiliated network finding mutual purpose and taking ownership to drive forward a shared mission
 
 **Ph.D. Candidate** \hfill 2017-present  
-[Michigan State University, College of Education](https://education.msu.edu/cepse/) \hfill East Lansing, MI
+Michigan State University, College of Education \hfill East Lansing, MI
 
 - Conducted and disseminated mixed methods research 
   - Published 10 articles in top peer-reviewed, academic journals and 5 chapters in edited books
