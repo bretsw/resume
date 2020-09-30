@@ -34,9 +34,10 @@ urlcolor: blue
 
 # Summary
 
-- Leader with 12+ years of experience in management, directing new initiatives, and organizational development
 - Researcher with extensive academic publishing record and expertise in mixed methods including data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
-- Problem-solver focused on centering users, asking the right questions, and applying appropriate methods
+- Problem-solver focused on asking the right questions and applying appropriate methods
+- User-centered designer with experience in learning experience, online learning environments, teacher professional development, serious games, and design thinking 
+- Leader with 12+ years of experience in management, directing new initiatives, and organizational development
 - Project manager with proven ability to lead multiple projects while meeting challenging deadlines
 
 ---
@@ -53,18 +54,18 @@ Black in Gaming \hfill Remote
 **Ph.D. Candidate** \hfill 2017-present  
 Michigan State University, College of Education \hfill East Lansing, MI
 
-- Conducted and disseminated mixed methods research 
+- Conducted and disseminated mixed methods research focused on networked learning and information science
+  - Wrote a dissertation highlighting challenges faced by new teachers as they transition into their new roles; synthesized themes from interviews to make recommendations to new teachers as well as education leaders designing induction supports
   - Published 10 articles in top peer-reviewed, academic journals and 5 chapters in edited books
-  - Published 14 papers in peer-reviewed conference proceedings and presented these at the conferences
-  - Presented 22 papers at academic conferences without published proceedings
-  - Presented 14 workshops and guest lectures on topics including research methods, R programming, game design, and online communities
+  - Wrote and presented 36 papers at academic conferences
+  - Presented 14 workshops and guest lectures on topics including understanding users, research methods, R programming, game design, and online communities
 - Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
 - Developed a supervised machine learning classifier to categorize tweets by tweeter's purpose
 - Wrote code to retrieve subreddit posts and responses from the Reddit API (R package in development)
 - Taught *Teaching & Learning with Technology* (Undergraduate, online, 7x, mean of 26 students)
   - Students completed a semester-long project by designing a professional online portfolio showcasing their new skills in design thinking, computational thinking, and media & information literacy
 - Taught *Learning Technology by Design* (Master’s, online, 3x, mean of 22 students)
-  - Students completed a semester-long project by working through one cycle of the design process (empathize, define, ideate, prototype, test) to address a problem of practice in their professional context.
+  - Students completed a semester-long project by working through one cycle of a design process (empathize, define, ideate, prototype, test) to address a problem of practice in their professional context.
 - Taught *Electronic Assessment for Teaching and Learning* (Master’s, online, 3x, mean of 14 students)
   - Students completed a semester-long project by creating a formative assessment design plan (incorporating learning theories, feedback, and educational technologies) to implement in their professional context.
 - Taught *Teaching Students Online* (Master’s, online, 1x, 14 students)
@@ -75,8 +76,9 @@ InterVarsity Christian Fellowship/USA \hfill Madison, WI
 
 - Set out to build the most diverse tech team in America
 - Recruited and trained 11 talented women and men, seeing the core leadership team grow from 1 to 12
+- Supervised 8 project leads managing 51 user-centered projects conceptualizing, developing, and testing innovative approaches to building online communities through video games and social media
 - Directed and facilitated 5 think tank gatherings of industry experts in Atlanta, Austin, and San Francisco
-- Supervised 8 project leads managing 51 projects conceptualizing, developing, and testing innovative approaches to building online communities through video games and social media
+
 
 **Area Director** \hfill 2009-2014  
 InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
@@ -85,12 +87,6 @@ InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
 - Directed 11 conferences for undergraduate students from 7 colleges (mean of 100 registrants)
 - Delivered 100+ talks at 13 different colleges and 8 inter-collegiate conferences (range of 15 to 200 attendees)
 - Designed and facilitated 30 training seminars for staff and students, specializing in leadership development
-
-**Director, Summer Justice Program** \hfill 2005-2006; 2009-2012  
-InterVarsity Christian Fellowship/USA
-
-- Designed and facilitated five 6-week immersive experiential programs for undergraduate students (mean of 8 students per summer) to learn from and work with local leaders in Lancaster, Pennsylvania (2006; 2009-2012)
-- Designed and facilitated a 6-week immersive, experiential learning program for 3 undergraduate students to learn from and work with local leaders in Manila, Philippines (2005)
 
 ---
 
