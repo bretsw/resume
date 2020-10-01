@@ -36,7 +36,7 @@ urlcolor: blue
 
 - Researcher with extensive academic publishing record and expertise in mixed methods including data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
 - Problem-solver focused on asking the right questions and applying appropriate methods
-- User-centered designer with experience in learning experience, online learning environments, teacher professional development, serious games, and design thinking 
+- User-centered designer with experience in online learning environments, teacher professional development, serious games, and design thinking 
 - Leader with 12+ years of experience in management, directing new initiatives, and organizational development
 - Project manager with proven ability to lead multiple projects while meeting challenging deadlines
 
