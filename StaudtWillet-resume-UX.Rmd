@@ -34,10 +34,10 @@ urlcolor: blue
 
 # Summary
 
+- Leader with 12+ years of experience in management, directing new initiatives, and organizational development
 - Researcher with extensive academic publishing record and expertise in mixed methods including data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
 - Problem-solver focused on asking the right questions and applying appropriate methods
 - User-centered designer with experience in online learning environments, teacher professional development, serious games, and design thinking 
-- Leader with 12+ years of experience in management, directing new initiatives, and organizational development
 - Project manager with proven ability to lead multiple projects while meeting challenging deadlines
 
 ---
@@ -56,7 +56,7 @@ Michigan State University, College of Education \hfill East Lansing, MI
 
 - Conducted and disseminated mixed methods research focused on networked learning and information science
   - Wrote a dissertation highlighting challenges faced by new teachers as they transition into their new roles; synthesized themes from interviews to make recommendations to new teachers as well as education leaders designing induction supports
-  - Published 10 articles in top peer-reviewed, academic journals and 5 chapters in edited books
+  - Published 10 articles in top peer-reviewed, academic journals and 6 chapters in edited books
   - Wrote and presented 36 papers at academic conferences
   - Presented 14 workshops and guest lectures on topics including understanding users, research methods, R programming, game design, and online communities
 - Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
