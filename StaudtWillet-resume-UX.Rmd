@@ -57,7 +57,7 @@ Michigan State University, College of Education \hfill East Lansing, MI
 - Conducted and disseminated mixed methods research focused on networked learning and information science
   - Wrote a dissertation highlighting challenges faced by new teachers as they transition into their new roles; synthesized themes from interviews to make recommendations to new teachers as well as education leaders designing induction supports
   - Published 12 articles in top peer-reviewed, academic journals and 6 chapters in edited books
-  - Wrote and presented 36 papers at academic conferences
+  - Wrote and presented 38 papers at academic conferences
   - Presented 15 workshops and guest lectures on topics including understanding users, research methods, R programming, game design, and online communities
 - Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
 - Developed a supervised machine learning classifier to categorize tweets by tweeter's purpose

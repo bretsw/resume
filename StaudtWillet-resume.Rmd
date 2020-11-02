@@ -56,7 +56,7 @@ Michigan State University, College of Education \hfill East Lansing, MI
 - Conducted and disseminated mixed methods research 
   - Published 12 articles in top peer-reviewed, academic journals and 6 chapters in edited books
   - Published 14 papers in peer-reviewed conference proceedings and presented these at the conferences
-  - Presented 22 papers at academic conferences without published proceedings
+  - Presented 24 papers at academic conferences without published proceedings
   - Presented 15 workshops and guest lectures on topics including research methods, R programming, game design, and online communities
 - Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
 - Developed a supervised machine learning classifier to categorize tweets by tweeter's purpose
