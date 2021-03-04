@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  2 NOV 2020 06:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  4 MAR 2021 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -509,11 +509,11 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 {/Users/bretsw/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] 
 AED: lastpage setting LastPage
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 438.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 438.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 437.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 437.
 (./StaudtWillet-resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 438.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 438.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 437.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 437.
 Package rerunfilecheck Info: File `StaudtWillet-resume.out' has not changed.
 (rerunfilecheck)             Checksum: 6902374C358E13D5D5D070A415D9146A;508.
  ) 
@@ -536,7 +536,7 @@ ist/fonts/type1/public/fpl/fplrc8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dis
 t/fonts/type1/urw/palatino/uplb8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist
 /fonts/type1/urw/palatino/uplr8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/
 fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on StaudtWillet-resume.pdf (2 pages, 91177 bytes).
+Output written on StaudtWillet-resume.pdf (2 pages, 91221 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
