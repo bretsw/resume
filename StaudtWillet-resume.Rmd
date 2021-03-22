@@ -7,9 +7,9 @@ output:
     template: ~/git/resume/bsw-latex-resume.tex
 geometry: "top=.5in, left =0.75in, right=0.75in, bottom=.5in"
 
-author: K. Bret Staudt Willet
+author: K. Bret Staudt Willet, Ph.D.
 
-jobtitle: "Ph.D. Candidate, Michigan State University | Executive Coach, Black in Gaming"
+jobtitle: "Incoming Assistant Professor, Florida State University | Executive Coach, Black in Gaming"
 fontawesome: yes
 
 email: bret@bretsw.com
