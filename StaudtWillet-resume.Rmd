@@ -5,14 +5,14 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/git/resume/bsw-latex-resume.tex
-geometry: "top=.5in, left =0.75in, right=0.75in, bottom=.5in"
+geometry: "top=1.0in, left =1.0in, right=1.0in, bottom=1.0in"
 
 author: K. Bret Staudt Willet, Ph.D.
 
-jobtitle: "Incoming Assistant Professor, Florida State University | Executive Coach, Black in Gaming"
+jobtitle: "Assistant Professor, Florida State University"
 fontawesome: yes
 
-email: bret@bretsw.com
+email: bret.staudtwillet@fsu.edu
 twitter: bretsw
 github: bretsw
 linkedin: bretsw
@@ -22,7 +22,7 @@ phone:
 
 updated: 
 
-keywords: networked learning, online communities, social media
+keywords: self-directed learning, networked learning, informal learning, learning analytics, social media
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -34,63 +34,11 @@ urlcolor: blue
 
 # Summary
 
-- Leader with 12+ years of experience in management, directing new initiatives, and organizational development
-- Researcher with extensive academic publishing record and expertise in mixed methods including data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
-- Problem-solver focused on centering users, asking the right questions, and applying appropriate methods
+- Researcher with extensive academic publishing record and expertise in mixed methods including data mining, social network analysis, natural language processing, topic models, data visualization, surveys, interviews, and diary studies
+- Problem-solver focused on asking the right questions and applying appropriate methods
+- User-centered designer with experience in teacher professional development, online learning environments, serious games, and design thinking 
+- Leader with 14+ years of experience in management, directing new initiatives, and organizational development
 - Project manager with proven ability to lead multiple projects while meeting challenging deadlines
-
----
-
-# Experience
-
-**Executive Coach** \hfill 2020-present  
-Black in Gaming \hfill Remote
-
-- Trained and mentored members of the executive leadership team through 40+ sessions spanning 3 months to innovate and focus efforts toward advocacy, incubation, and education initiatives
-- Designed and implemented strategies for organizational development, resulting in a conference SIG becoming a movement to see Black representation in the game industry increase from 2% to 5% in 5 years
-- Directed onboarding of 5 new members of the executive leadership team and 10 managers, resulting in a loosely affiliated network finding mutual purpose and taking ownership to drive forward a shared mission
-
-**Ph.D. Candidate** \hfill 2016-2021  
-Michigan State University, College of Education \hfill East Lansing, MI
-
-- Conducted and disseminated mixed methods research 
-  - Published 14 articles in top peer-reviewed, academic journals and 6 chapters in edited books
-  - Published 15 papers in peer-reviewed conference proceedings and presented these at the conferences
-  - Presented 27 papers at academic conferences without published proceedings
-  - Presented 15 workshops and guest lectures on topics including research methods, R programming, game design, and online communities
-- Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
-- Developed a supervised machine learning classifier to categorize tweets by tweeter's purpose
-- Wrote code to retrieve subreddit posts and responses from the Reddit API (R package in development)
-- Taught *Teaching & Learning with Technology* (Undergraduate, online, 7x, mean of 26 students)
-  - Students completed a semester-long project by designing a professional online portfolio showcasing their new skills in design thinking, computational thinking, and media & information literacy
-- Taught *Learning Technology by Design* (Master’s, online, 3x, mean of 22 students)
-  - Students completed a semester-long project by working through one cycle of the design process (empathize, define, ideate, prototype, test) to address a problem of practice in their professional context.
-- Taught *Electronic Assessment for Teaching and Learning* (Master’s, online, 3x, mean of 14 students)
-  - Students completed a semester-long project by creating a formative assessment design plan (incorporating learning theories, feedback, and educational technologies) to implement in their professional context.
-- Taught *Teaching Students Online* (Master’s, online, 1x, 14 students)
-  - Students completed a semester-long project by designing a curriculum for an online course module for their professional context, which may include training sessions or non-traditional courses.
-
-**Founding National Director, Ministry in Digital Spaces** \hfill 2014-2017  
-InterVarsity Christian Fellowship/USA \hfill Madison, WI
-
-- Set out to build the most diverse tech team in America
-- Recruited and trained 11 talented women and men, seeing the core leadership team grow from 1 to 12
-- Directed and facilitated 5 think tank gatherings of industry experts in Atlanta, Austin, and San Francisco
-- Supervised 8 project leads managing 51 projects conceptualizing, developing, and testing innovative approaches to building online communities through video games and social media
-
-**Area Director** \hfill 2009-2014  
-InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
-
-- Supervised 17 different staff at colleges and universities across South Central Pennsylvania
-- Directed 11 conferences for undergraduate students from 7 colleges (mean of 100 registrants)
-- Delivered 100+ talks at 13 different colleges and 8 inter-collegiate conferences (range of 15 to 200 attendees)
-- Designed and facilitated 30 training seminars for staff and students, specializing in leadership development
-
-**Director, Summer Justice Program** \hfill 2005-2006; 2009-2012  
-InterVarsity Christian Fellowship/USA
-
-- Designed and facilitated five 6-week immersive experiential programs for undergraduate students (mean of 8 students per summer) to learn from and work with local leaders in Lancaster, Pennsylvania (2006; 2009-2012)
-- Designed and facilitated a 6-week immersive, experiential learning program for 3 undergraduate students to learn from and work with local leaders in Manila, Philippines (2005)
 
 ---
 
@@ -98,24 +46,20 @@ InterVarsity Christian Fellowship/USA
 
 **Michigan State University**
 
-- 2021: Ph.D. in Educational Psychology & Educational Technology
-- 2015: M.A. in Educational Technology
-- 2014: Graduate Certificate in Serious Game Design and Research
- 
+- 2021: **Ph.D.** in Educational Psychology & Educational Technology
+- 2015: **M.A.** in Educational Technology
+- 2014: **Graduate Certificate** in Serious Game Design and Research
+
 **Bucknell University**
 
-- 2003: B.A. in Mathematics & Sociology
+- 2003: **B.A.** in Mathematics & Sociology
 
 **Further Training**
 
 - 2020: *Early Career Symposium* at Association for Educational Communications and Technology (AECT) International Convention (Online)
-- 2020: *Reproducible Research* Course Certificate from Johns Hopkins University (Coursera.org)
-- 2019: *Exploratory Data Analysis* Course Certificate from Johns Hopkins University (Coursera.org)
-- 2018: *Doctoral Colloquium* at Association of Internet Researchers (AoIR) International Conference (Montreal)
+- 2019: *Data Science: Foundations using R* 5-Course Specialization from Johns Hopkins University (Coursera.org)
+- 2018: *Doctoral Colloquium* at Association of Internet Researchers (AoIR) International Conference (Montreal, QC)
 - 2018: *Methods for Analyzing and Modeling Textual Data* at Summer School Series on Methods for Computational Social Science (Los Angeles, CA)
-- 2018: *Getting and Cleaning Data* Course Certificate from Johns Hopkins University (Coursera.org)
-- 2018: *The Data Scientist’s Toolbox* Course Certificate from Johns Hopkins University (Coursera.org)
-- 2017: *R Programming* Course Certificate from Johns Hopkins University (Coursera.org)
 - 2012: *Game Design and Facilitation* Workshop Certificate from The Thiagi Group at North American Simulation and Gaming Association (NASAGA) International Conference (Columbus, OH)
 
 ---
@@ -124,6 +68,8 @@ InterVarsity Christian Fellowship/USA
 
 **Awards**
 
+- 2021: Outstanding Service Award, Research & Theory Divsion of Association for Educational Communications & Technology (AECT)
+- 2021: MSU AT&T Faculty-Staff Annual Competition in Instructional Technology, Michigan State University 
 - 2020: Clifford E. Erickson Memorial Fund Scholarship from Michigan State's College of Education
 - 2020: Featured Research at Association for Educational Communications and Technology (AECT) International Convention (Online) as lead investigator of how social networks on Reddit change over time 
 - 2020: Outstanding Paper Award from Society for Information Technology & Teacher Education (SITE) International Conference (Online) as sole investigator of discourse in Twitter hashtags and reply threads
@@ -133,13 +79,44 @@ InterVarsity Christian Fellowship/USA
 
 **Service**
 
+- 2021-2022: President Elect for AECT's Research & Theory Division
 - 2020-2021: Communications Officer for AECT's Research & Theory Division
 - 2019-2021: Co-Chair for SITE's Social Media SIG
 - 2019-2020: Secretary for AECT's Research & Theory Division
-- 2018-2019: Webinar Team Leader for AECT'S Graduate Student Association
+- 2018-2019: Graduate Student Representative for AECT's Research & Theory Division
 - 2017: Science, Technology, & Innovation Track Chair and Conference Executive Committee Member for Passion Talks Conference (Google HQ, Mountain View, CA)
 - 2015: Hackathon Mentor Coordinator for Urbana International Conference (St. Louis, MO)
 - 2013-2015: Board Member for North American Simulation and Gaming Association (NASAGA)
+
+---
+
+# Experience
+
+**Assistant Professor** \hfill 2021-Present  
+Florida State University \hfill Tallahassee
+
+- Conducted research on self-directed learning and social media
+- Taught courses at the Doctoral and Master's level such as Web & Learning Analytics, Evaluation of Training Programs, and Application of Research Methods
+- Supervised 8 doctoral students and served on 7 additional doctoral committees
+
+**Executive Coach** \hfill 2020-2021  
+Black in Gaming \hfill Remote
+
+- Trained and mentored members of the executive leadership team through 40+ sessions spanning 3 months to innovate and focus efforts toward advocacy, incubation, and education initiatives
+- Designed and implemented strategies for organizational development, resulting in a conference SIG becoming a movement to see Black representation in the game industry increase from 2% to 5% in 5 years
+- Directed onboarding of 5 new members of the executive leadership team and 10 managers, resulting in a loosely affiliated network finding mutual purpose and taking ownership to drive forward a shared mission
+
+**Ph.D. Student** \hfill 2016-2021  
+Michigan State University, College of Education \hfill East Lansing, MI
+
+- Conducted and disseminated mixed methods research 
+  - Published 15 articles in top peer-reviewed, academic journals and 6 chapters in edited books
+  - Presented 42 papers at academic conferences
+  - Presented 15 workshops and guest lectures on topics including research methods, R programming, game design, and online communities
+- Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
+- Developed a supervised machine learning classifier to categorize tweets by tweeter's purpose
+- Wrote code to retrieve subreddit posts and responses from the Reddit API (R package in development)
+- Taught courses at the Undergraduate and Master's level
 
 ---
 

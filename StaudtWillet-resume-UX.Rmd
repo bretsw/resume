@@ -9,7 +9,7 @@ geometry: "top=.5in, left =0.75in, right=0.75in, bottom=.5in"
 
 author: K. Bret Staudt Willet, Ph.D.
 
-jobtitle: "Incoming Assistant Professor, Florida State University | Executive Coach, Black in Gaming"
+jobtitle: "Assistant Professor, Florida State University"
 fontawesome: yes
 
 email: bret@bretsw.com
